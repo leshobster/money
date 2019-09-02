@@ -689,7 +689,7 @@ class Currency
         'RON' => [
             'code' => 'RON',
             'title' => 'Romania, New Leu',
-            'symbol' => null,
+            'symbol' => 'Lei',
             'precision' => 2,
             'thousandSeparator' => '.',
             'decimalSeparator' => ',',
